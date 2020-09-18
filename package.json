@@ -3,7 +3,6 @@
   "version": "1.0.0-alpha",
   "description": "Vine Coin API for Node.JS 🚀",
   "license": "MIT",
-  "deprecated": false,
   "main": "src/index",
   "homepage": "https://github.com/r4vesky/vine-coin-plus",
   "author": {
@@ -39,5 +38,6 @@
     "localtunnel": "^2.0.0",
     "request": "^2.88.2",
     "axios": "^0.20.0"
-  }
+  },
+  "deprecated": false
 }
