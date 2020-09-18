@@ -1,4 +1,4 @@
-# vine-coin-api
+# vine-coin-plus
 Vine Coin API for Node.JS 🚀
 
 | [Examples](https://github.com/r4vesky/vine-coin-plus/tree/master/examples) |
