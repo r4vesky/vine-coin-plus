@@ -1,0 +1,43 @@
+{
+  "name": "vine-coin-plus",
+  "version": "1.0.0-alpha",
+  "description": "Vine Coin API for Node.JS 🚀",
+  "license": "MIT",
+  "deprecated": false,
+  "main": "src/index",
+  "homepage": "https://github.com/r4vesky/vine-coin-plus",
+  "author": {
+    "name": "Ivan Ravesky",
+    "email": "r4vesky@gmail.com",
+    "url": "https://github.com/r4vesky"
+  },
+  "engines": {
+    "node": ">=12.0.0"
+  },
+  "bugs": {
+    "url": "https://github.com/r4vesky/vine-coin-plus/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/r4vesky/vine-coin-plus.git"
+  },
+  "files": [
+    "src"
+  ],
+  "keywords": [
+    "vk",
+    "api",
+    "sdk",
+    "nodejs",
+    "js",
+    "coin",
+    "vine"
+  ],
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1",
+    "localtunnel": "^2.0.0",
+    "request": "^2.88.2",
+    "axios": "^0.20.0"
+  }
+}
